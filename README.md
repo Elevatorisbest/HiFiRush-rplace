@@ -8,6 +8,6 @@ This is a template for template-manager script for TamperMonkey to allow you to 
 
    ![Picture of the area to paste the link in](https://i.imgur.com/GdLRJb5.png)
 
-4. Then, click always load and the template should be displayed for 808, placed above Kurisu maintained by Steins;gate as of 22.07.2023 17:52 CEST. It will also display a template for Steins;gate, to support eachother.
+4. Then, click always load and the template should be displayed for 808.
 
 5. Precise link to the top left corner of 808 is this: (NOT DECIDED YET) (as of 22.07.2023 18:32 CEST)
