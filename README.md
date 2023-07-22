@@ -1,6 +1,6 @@
 # hifirush808rplace
 
-This is a template for template-manager script for TamperMonkey to allow you to place 808 more efficiently.
+This is a template for template-manager script for TamperMonkey to allow you to place 808 on r/place more efficiently.
 
 Open up the menu of the template manager, and in the "Template URL" box, paste in this link: https://raw.githubusercontent.com/Elevatorisbest/hifirush808rplace/main/overlay.json
 
