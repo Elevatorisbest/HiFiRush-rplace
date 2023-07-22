@@ -1,4 +1,6 @@
 # hifirush808rplace
+![Banner of HiFi Rush itself for decoration](https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/library_hero.jpg?t=1689270310)
+![Logo of r/place](https://styles.redditmedia.com/t5_2sxhs/styles/communityIcon_5ejpm2gtctq81.png?width=256&s=66292afe20bb85730f4192931b01da86e75acfaa)
 
 This is a template for template-manager script for TamperMonkey to allow you to place 808 on r/place more efficiently.
 
@@ -11,3 +13,5 @@ This is a template for template-manager script for TamperMonkey to allow you to 
 4. Then, click always load and the template should be displayed for 808.
 
 5. Precise link to the top left corner of 808 is this: (https://reddit.app.link/place?cx=-688&cy=386&px=11&screenmode=fullscreen) (as of 22.07.2023 19:25 CEST)
+
+![Pixelart of 808](https://i.imgur.com/KErG6EC.png)
