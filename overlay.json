@@ -1,0 +1,39 @@
+{
+  "faction": "Steins;Place",
+  "contact": "https://discord.gg/nAqaXhpafP",
+  "templates": [
+    {
+      "name": "Steins;Place Art 1",
+      "sources": ["https://i.imgur.com/7SeFjXo.png"],
+      "x": 280,
+      "y": 827
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://rentry.co/86Place2023/raw"
+    },
+    {
+      "name": "/r/Vivy",
+      "url": "https://rentry.co/VivyPlace2023/raw"
+    },
+    {
+      "name": "TITANPLACE",
+      "url": "https://rentry.co/TitanPlace2023/raw"
+    },
+    {
+      "name": "/r/5ToubunNoHanayome/",
+      "url": "https://rentry.co/QuintsPlace/raw"
+    },
+    {
+      "name": "/r/Corridor",
+      "url": "https://rentry.co/CorridorPlace2023/raw"
+    },
+    {
+      "name": "/r/WitchHatAtelier",
+      "url": "https://raw.githubusercontent.com/Saturn-7/WHA-TOPtemplate/main/WHATOPtemplate"
+    }
+  ],
+  "blacklist": []
+}
