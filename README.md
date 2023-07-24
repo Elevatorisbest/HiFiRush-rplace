@@ -12,6 +12,6 @@ This is a template for template-manager script for TamperMonkey to allow you to 
 
 4. Then, click always load and the template should be displayed for 808.
 
-5. Precise link to the top left corner of 808 is this: (https://reddit.app.link/place?cx=-1278&cy=-319&px=19&screenmode=fullscreen) (as of 24.07.2023 14:11 CEST)
+5. Precise link to the top left corner of 808 is this: (https://reddit.app.link/place?cx=-1368&cy=-318&px=13&screenmode=fullscreen) (as of 24.07.2023 16:40 CEST)
 
 ![Pixelart of 808](https://i.imgur.com/m7a44wx.png)
