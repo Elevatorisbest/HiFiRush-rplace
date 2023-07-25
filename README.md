@@ -16,7 +16,7 @@ These were the steps to use it:
 
 5. Precise link to the final resting place of 808 was this: (https://reddit.app.link/place?cx=-798&cy=392&px=12&screenmode=fullscreen) (as of 25.07.2023 23:26 CEST)
 
-#Thank You to:
+# Thank You to:
 Steins;Place, 
 Omori, 
 PunPun, 
